@@ -4,10 +4,10 @@ For information, a bigram matrix is a matrix giving the probabily of two adjacen
 For our exercices, the French and English bigram matrix, give us the probability of the next character knowing the current character. 
 
 The exercices can be split in 3 part : 
-## Part 1 : Word creation 
+## Part 1 : Word Generation 
 Given the bi-gram for English language, we will first create a function to create a random word
 
-## Part 2 : Sentence creation 
+## Part 2 : Sentence Generation 
 We will extend the function and the bigram to create a random sentence.
 
 ## Part 3 : Language recognition
