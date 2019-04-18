@@ -1,7 +1,7 @@
 # Markov Chain - Word and Sentences generation  
 This exercices is based on the English and French bigram matrix. 
 For information, a bigram matrix is a matrix giving the probabily of two adjacents elements, meaning , it is a matrix giving the probability of the next elements knowing the current element. 
-For our exercices, the French and English bigram matrix, give us the probability of the next character knowing the current character. Therefore, we have $a_{ij} = P(X_{t+1} = el_j | X_{t} = el_i)$
+For our exercices, the French and English bigram matrix, give us the probability of the next character knowing the current character. 
 
 The exercices can be split in 3 part : 
 ## Part 1 : Word creation 
